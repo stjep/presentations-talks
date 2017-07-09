@@ -7,6 +7,9 @@
 
 Yada yada yadda
 
+Note:
+This is a note for the speaker
+
 +++
 
 More yadda yadda yada
