@@ -1,15 +1,22 @@
-# The jingle and jangle of emotion assessment: Imprecise measurement, casual scale usage, and conceptual fuzziness in emotion research
-### Weidman, Stckler, Tracy, 2017, *Emotion*
+## The jingle and jangle of emotion assessment: Imprecise measurement, casual scale usage, and conceptual fuzziness in emotion research
 
 ---
 
-## Introduction
+### Introduction
 
-Yada yada yadda
+Increasing use of self-report measures to assess momentary experience of distinct emotions.
+
+Wide range of emotions studies is mirrored by breadth of research topics.
+
+
 
 Note:
 This is a note for the speaker. Why is this not rendering??
 
 +++
 
-More yadda yadda yada
+- Doop doop doop
+
+- Doop dee doop
+
+- La la la
