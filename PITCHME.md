@@ -7,9 +7,15 @@
 
 Yada yada yadda
 
+More yada
+
 Note:
 This is a note for the speaker. Why is this not rendering??
 
 +++
 
-More yadda yadda yada
+- Doop doop doop
+
+- Doop dee doop
+
+- La la la
