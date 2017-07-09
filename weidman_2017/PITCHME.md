@@ -1,3 +1,6 @@
+<!-- .slide: class="center" -->
+<!-- .reveal: text-align="left" -->
+<!-- .slide: text-align="left" -->
 ## The jingle and jangle of emotion assessment: Imprecise measurement, casual scale usage, and conceptual fuzziness in emotion research
 
 ---
