@@ -8,7 +8,7 @@
 Yada yada yadda
 
 Note:
-This is a note for the speaker
+This is a note for the speaker. Why is this not rendering??
 
 +++
 
